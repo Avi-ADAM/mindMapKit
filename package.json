@@ -1,0 +1,23 @@
+{
+  "name": "svelte-mindmap",
+  "version": "1.0.4",
+  "description": "SvelteMindmap is a svelte component for mindnode maps",
+  "main": "MindMap.svelte",
+  "dependencies": {
+    "d3": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heithemmoumni/svelte-mindmap.git"
+  },
+  "keywords": [
+    "svelte",
+    "mindmap"
+  ],
+  "author": "Heithem Moumni <moumniheithem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heithemmoumni/svelte-mindmap/issues"
+  },
+  "homepage": "https://github.com/heithemmoumni/svelte-mindmap#readme"
+}
